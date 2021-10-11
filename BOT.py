@@ -1,5 +1,5 @@
 import pywhatkit
-pywhatkit.sendwhatmsg( "+91 98957 38279","testing pls ignore", 23, 53)#here we have to enter our group or chat name,text if we wnat to sent to them, and tehn finaly we ahve to mention the time its gonna work 
+pywhatkit.sendwhatmsg( "enter your no","testing pls ignore", 23, 53)#here we have to enter our group or chat name,text if we wnat to sent to them, and tehn finaly we ahve to mention the time its gonna work 
 link = input("ENTER YOUR LINK HERE :=")
 
 #thi is gonna close the tab after desired time 
