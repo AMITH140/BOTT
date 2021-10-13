@@ -13,10 +13,6 @@ REQUIRED THINGS TO INSTALL
 2) pywhatkit  (pip install pywhatkit)
 3) time       (pip install python-time) 
 4) pynput     (pip install pynput) 
-
-#EXTENTIONS TO INSTALL 
-https://chrome.google.com/webstore/detail/auto-join-for-google-meet/ajfokipknlmjhcioemgnofkpmdnbaldi
-
-NOTE: This wont be needed after i roll out an update for autojoin-for-google-meet
+#CHECK THIS WEBSITE TO LEARN MORE ABOUT MOUSE CONTROLING USING PYTHON=https://pynput.readthedocs.io/en/latest/mouse.html#:~:text=from%20pynput.mouse,release(Button.left)
 
 HAPPY CODING
