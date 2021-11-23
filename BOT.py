@@ -29,8 +29,8 @@ mouse.release(Button.left)
 
 
 print("CLICKING THE LINK (tough task)")
-#CLICKING OUR LINK THE TOUGH TASK
-mouse.position = (532, 558)
+#CLICKING OUR LINK (THE TOUGH TASK)
+mouse.position = (532, 558)#configure this according to your screen 
 time.sleep(2)
 mouse.press(Button.left)
 mouse.release(Button.left)
@@ -38,11 +38,11 @@ mouse.release(Button.left)
 
 
 print("TURNING OFF THE CAM AND MIC")
-#now we start clicking shitts
+#now we start clicking 
 import time
 from pynput.keyboard import Key, Controller
 keyboard = Controller()
-time.sleep(30)
+time.sleep(30)#here instead of 30 you can put whatever number u want but it will take it as sec only 
 #presing d
 keyboard.press(Key.ctrl_l)
 keyboard.press('d')
