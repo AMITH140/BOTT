@@ -1,10 +1,10 @@
 HI, this is a project to automate the process of online classes 
-in this we are gonna open whatsapp web using chrome and click the class group and then click the link for the meeting 
+in this, we are gonna open WhatsApp web using chrome and click the class group and then click the link for the meeting 
 and turn off mic and cam and it will click join now  
-and after that python is gonna auto close the tab after desired time in case of mine i have setted 15/30/5 sec 
+and after that python is gonna auto close the tab after desired time in my case I have set 15/30/5 sec 
 and you have to configure this according to your desired way 
 and the rest configures are mentioned in the .py file 
-thats all for now!
+that's all for now!
 Bye Happy Coding coders!
 
 
